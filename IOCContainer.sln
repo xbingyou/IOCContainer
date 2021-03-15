@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainer", "IOCContainer\IOCContainer.csproj", "{9ADE5021-6291-447C-9FED-63BDE6F0E510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacIocContainer", "AutofacContainer\AutofacIocContainer.csproj", "{E25C3A5D-C392-438F-BCC4-AB098E1022DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9ADE5021-6291-447C-9FED-63BDE6F0E510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADE5021-6291-447C-9FED-63BDE6F0E510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADE5021-6291-447C-9FED-63BDE6F0E510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25C3A5D-C392-438F-BCC4-AB098E1022DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25C3A5D-C392-438F-BCC4-AB098E1022DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25C3A5D-C392-438F-BCC4-AB098E1022DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25C3A5D-C392-438F-BCC4-AB098E1022DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
